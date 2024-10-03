@@ -13,6 +13,7 @@ Ce projet consiste en une analyse approfondie des données COVID-19, en utilisan
 
 ## Outils Utilisés
 •	SQL : Manipulation des bases de données COVID-19 pour extraire, transformer, nettoyer et analyser les données.
+
 •	GitHub : Partage du projet et gestion du code SQL.
 
 ## Démarche Analytique
