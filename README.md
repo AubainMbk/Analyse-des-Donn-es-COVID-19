@@ -49,11 +49,17 @@ Une vue SQL a été créée pour suivre l’évolution des vaccinations par cont
 Le projet a permis de mettre en pratique des compétences SQL essentielles, notamment :
 
 •	Le Nettoyage des Données : Utilisation des commandes UPDATE pour traiter les données incorrectes ou manquantes.
+
 •	Les Jointures et Agrégations : Maîtrise des jointures complexes et des fonctions d'agrégation pour croiser les données entre les tables CovidDeaths et CovidVaccinations.
+
 •	Les Tables Temporaires : Création de tables temporaires (#PercentPeopleVacc) pour organiser les résultats intermédiaires et optimiser les requêtes.
+
 •	Les Vues SQL : Mise en place de vues SQL (PeopleVaccinated) pour simplifier les requêtes répétitives et préparer les données pour les visualisations futures.
+
 •	Les CTE (Common Table Expressions) : Utilisation des CTE pour rendre les requêtes plus lisibles et faciliter la gestion des calculs complexes comme l’évolution des vaccinations.
+
 •	Les Fonctions de Fenêtre : Application de la fonction SUM() OVER() pour suivre la progression cumulative des vaccinations sur des périodes données.
+
 •	Les Calculs de Pourcentage : Calcul des pourcentages d'infection et de vaccination à l'aide d’opérateurs SQL, fournissant des mesures cruciales pour évaluer l'impact du COVID-19.
 
 
